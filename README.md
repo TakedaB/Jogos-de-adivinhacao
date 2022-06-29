@@ -1,3 +1,3 @@
-# jogo-da-adivinhacao
+# jogos de adivinhação
 
-Olá,esse código foi feito utilizando a linguagem Python. Nesse código,você poderá testar sua sorte em achar o número secreto.O jogo ainda contém 3 níveis de dificuldade.Divirta-se.
+Olá,esses código foram feitos utilizando a linguagem Python. Temos 2 modelos de jogos,o clássico jogo da forca e o jogo do número secreto,esse último contém 3 níveis de dificuldade.Divirta-se!
